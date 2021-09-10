@@ -7,17 +7,17 @@
     app:startDestination="@id/requestFragment">
     <fragment
         android:id="@+id/requestFragment"
-        android:name="com.example.ufrb_problemas.viewModel.request.RequestFragment"
+        android:name="com.example.ufrb_problemas.UI.request.RequestFragment"
         android:label="RequestFragment"
         tools:layout="@layout/fragment_request"/>
     <fragment
         android:id="@+id/profileFragment"
-        android:name="com.example.ufrb_problemas.viewModel.profile.ProfileFragment"
+        android:name="com.example.ufrb_problemas.UI.profile.ProfileFragment"
         android:label="ProfileFragment"
         tools:layout="@layout/fragment_profile"/>
     <fragment
         android:id="@+id/alertFragment"
-        android:name="com.example.ufrb_problemas.viewModel.alert.AlertFragment"
+        android:name="com.example.ufrb_problemas.UI.alert.AlertFragment"
         android:label="AlertFragment"
         tools:layout="@layout/fragment_alert"/>
 </navigation>

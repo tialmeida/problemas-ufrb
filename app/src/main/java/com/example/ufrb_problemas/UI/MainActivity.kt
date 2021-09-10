@@ -1,12 +1,10 @@
-package com.example.ufrb_problemas.viewModel
+package com.example.ufrb_problemas.UI
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.databinding.DataBindingUtil
 import androidx.navigation.NavController
-import androidx.navigation.findNavController
 import androidx.navigation.fragment.NavHostFragment
-import androidx.navigation.ui.NavigationUI
 import androidx.navigation.ui.setupWithNavController
 import com.example.ufrb_problemas.R
 import com.example.ufrb_problemas.databinding.ActivityMainBinding

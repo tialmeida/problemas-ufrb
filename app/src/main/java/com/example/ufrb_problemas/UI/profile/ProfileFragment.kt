@@ -1,4 +1,4 @@
-package com.example.ufrb_problemas.viewModel.profile
+package com.example.ufrb_problemas.UI.profile
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment

@@ -1,4 +1,4 @@
-package com.example.ufrb_problemas.viewModel.request
+package com.example.ufrb_problemas.UI.request
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment

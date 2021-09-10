@@ -1,4 +1,4 @@
-package com.example.ufrb_problemas.viewModel.alert
+package com.example.ufrb_problemas.UI.alert
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment

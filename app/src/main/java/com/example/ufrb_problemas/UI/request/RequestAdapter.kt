@@ -1,4 +1,4 @@
-package com.example.ufrb_problemas.viewModel.request
+package com.example.ufrb_problemas.UI.request
 
 import android.view.LayoutInflater
 import android.view.ViewGroup
