@@ -29,7 +29,7 @@ object GenerateData {
 
     fun generateFile(): File {
         idFile++
-        return File(idFile, "https://i.picsum.photos/id/408/200/300.jpg?hmac=WHLCqIpd4lzmPZlRRMknXp1aOoOr7_qdtEUwozDmIWQ")
+        return File(idFile, "https://cdnstatic8.com/encanador.srv.br/wp-content/uploads/2019/08/torneira-pingando-como-resolver.jpg")
     }
 
     fun generateImage(): Image {
