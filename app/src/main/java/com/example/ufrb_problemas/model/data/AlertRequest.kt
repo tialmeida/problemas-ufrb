@@ -1,4 +1,4 @@
-package com.example.ufrb_problemas.model.Data
+package com.example.ufrb_problemas.model.data
 
 import android.os.Parcelable
 import kotlinx.parcelize.Parcelize
@@ -7,5 +7,5 @@ import kotlinx.parcelize.Parcelize
 data class AlertRequest(
     val id: Int,
     val alert: Alert,
-    val request: Request
+    val request: Request?
 ): Parcelable

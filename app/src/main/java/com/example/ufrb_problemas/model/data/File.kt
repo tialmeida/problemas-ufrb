@@ -1,10 +1,10 @@
-package com.example.ufrb_problemas.model.Data
+package com.example.ufrb_problemas.model.data
 
 import android.os.Parcelable
 import kotlinx.parcelize.Parcelize
 
 @Parcelize
-data class Comment(
+data class File(
     val id: Int,
-    val comment: String
+    val url: String
 ): Parcelable

@@ -1,5 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Rethink/AndroidStudioProjects/problemas-ufrb/app/src/main/res/drawable/background_image_button.xml" value="0.2635416666666667" />
+        <entry key="..\:/Users/Rethink/AndroidStudioProjects/problemas-ufrb/app/src/main/res/drawable/ic_next.xml" value="0.2635416666666667" />
+        <entry key="..\:/Users/Rethink/AndroidStudioProjects/problemas-ufrb/app/src/main/res/layout/activity_main.xml" value="0.20104166666666667" />
+        <entry key="..\:/Users/Rethink/AndroidStudioProjects/problemas-ufrb/app/src/main/res/layout/fragment_alert.xml" value="0.36041666666666666" />
+        <entry key="..\:/Users/Rethink/AndroidStudioProjects/problemas-ufrb/app/src/main/res/layout/fragment_profile.xml" value="0.36041666666666666" />
+        <entry key="..\:/Users/Rethink/AndroidStudioProjects/problemas-ufrb/app/src/main/res/layout/fragment_request.xml" value="0.36041666666666666" />
+        <entry key="..\:/Users/Rethink/AndroidStudioProjects/problemas-ufrb/app/src/main/res/layout/fragment_title.xml" value="0.36041666666666666" />
+        <entry key="..\:/Users/Rethink/AndroidStudioProjects/problemas-ufrb/app/src/main/res/layout/row_request.xml" value="0.4" />
+        <entry key="..\:/Users/Rethink/AndroidStudioProjects/problemas-ufrb/app/src/main/res/menu/nav_menu.xml" value="0.36041666666666666" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>

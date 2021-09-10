@@ -1,6 +1,6 @@
-package com.example.ufrb_problemas.model.Data.Enum
+package com.example.ufrb_problemas.model.data.Enum
 
-enum class RequestStatus(displayName: String) {
+enum class RequestStatus(val displayName: String) {
     OPEN("aberta"),
     IN_PROGRESS("em progresso"),
     DONE("resolvida"),

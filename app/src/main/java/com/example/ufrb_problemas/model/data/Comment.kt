@@ -1,11 +1,10 @@
-package com.example.ufrb_problemas.model.Data
+package com.example.ufrb_problemas.model.data
 
 import android.os.Parcelable
 import kotlinx.parcelize.Parcelize
 
 @Parcelize
-data class Image(
+data class Comment(
     val id: Int,
-    val file: File,
-    val alert: Alert
+    val comment: String
 ): Parcelable

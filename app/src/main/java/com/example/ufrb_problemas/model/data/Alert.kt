@@ -1,8 +1,7 @@
-package com.example.ufrb_problemas.model.Data
+package com.example.ufrb_problemas.model.data
 
 import android.os.Parcelable
-import com.example.ufrb_problemas.model.Data.Enum.AlertStatus
-import com.example.ufrb_problemas.model.Data.Enum.RequestStatus
+import com.example.ufrb_problemas.model.data.Enum.AlertStatus
 import kotlinx.parcelize.Parcelize
 
 @Parcelize
