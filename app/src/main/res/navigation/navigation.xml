@@ -10,4 +10,14 @@
         android:name="com.example.ufrb_problemas.viewModel.request.RequestFragment"
         android:label="RequestFragment"
         tools:layout="@layout/fragment_request"/>
+    <fragment
+        android:id="@+id/profileFragment"
+        android:name="com.example.ufrb_problemas.viewModel.profile.ProfileFragment"
+        android:label="ProfileFragment"
+        tools:layout="@layout/fragment_profile"/>
+    <fragment
+        android:id="@+id/alertFragment"
+        android:name="com.example.ufrb_problemas.viewModel.alert.AlertFragment"
+        android:label="AlertFragment"
+        tools:layout="@layout/fragment_alert"/>
 </navigation>

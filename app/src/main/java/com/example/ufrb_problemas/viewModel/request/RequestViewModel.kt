@@ -5,7 +5,7 @@ import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 import com.example.ufrb_problemas.model.data.Request
-import com.example.ufrb_problemas.utils.GenerateData
+import com.example.ufrb_problemas.util.GenerateData
 import kotlin.random.Random
 
 class RequestViewModel: ViewModel() {

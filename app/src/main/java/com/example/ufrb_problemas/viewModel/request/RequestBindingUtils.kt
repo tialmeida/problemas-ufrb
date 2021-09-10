@@ -6,7 +6,7 @@ import androidx.databinding.BindingAdapter
 import com.example.ufrb_problemas.R
 import com.example.ufrb_problemas.model.data.File
 import com.example.ufrb_problemas.model.data.Request
-import com.example.ufrb_problemas.utils.DateFormatter
+import com.example.ufrb_problemas.util.DateFormatter
 import com.squareup.picasso.Picasso
 import de.hdodenhof.circleimageview.CircleImageView
 

@@ -1,4 +1,4 @@
-package com.example.ufrb_problemas.utils
+package com.example.ufrb_problemas.util
 
 import com.example.ufrb_problemas.model.data.*
 import com.example.ufrb_problemas.model.data.Enum.AlertStatus

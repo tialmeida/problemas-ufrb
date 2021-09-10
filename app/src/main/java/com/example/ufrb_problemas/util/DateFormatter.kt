@@ -1,4 +1,4 @@
-package com.example.ufrb_problemas.utils
+package com.example.ufrb_problemas.util
 
 object DateFormatter {
     fun formatterDate(date: String): String {
