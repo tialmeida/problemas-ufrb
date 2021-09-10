@@ -10,7 +10,7 @@ import com.example.ufrb_problemas.util.DateFormatter
 import com.squareup.picasso.Picasso
 import de.hdodenhof.circleimageview.CircleImageView
 
-class RequestBindingUtils {
+class RequestBindingUtil {
     companion object {
         @JvmStatic
         @SuppressLint("SetTextI18n")
